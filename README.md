@@ -33,7 +33,7 @@ Make sure you have [Go](https://go.dev) installed.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pepesoul/go-donation-processor.git
+   git clone https://github.com/pepesoul/donate-converter-go.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -75,7 +75,7 @@ Make sure you have [Go](https://go.dev) installed.
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/pepesoul/go-donation-processor.git
+   git clone https://github.com/pepesoul/donate-converter-go.git
    ```
 2. Перейдите в директорию проекта:
    ```bash
