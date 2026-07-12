@@ -37,7 +37,7 @@ Make sure you have [Go](https://go.dev) installed.
    ```
 2. Navigate to the project directory:
    ```bash
-   cd go-donation-processor
+   cd donate-converter-go
    ```
 3. Run the application:
    ```bash
@@ -79,7 +79,7 @@ Make sure you have [Go](https://go.dev) installed.
    ```
 2. Перейдите в директорию проекта:
    ```bash
-   cd go-donation-processor
+   cd donate-converter-go
    ```
 3. Запустите приложение:
    ```bash
